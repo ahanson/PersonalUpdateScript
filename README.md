@@ -1,8 +1,8 @@
 # Personal Update Script.
 
-Here's my personal install script,
+Here's my personal install script. It's meant for Linux Mint 18.3 Cinnamon.
 
-It adds all my personal favorite programs and the repositories that they require.
+It adds all my usual programs and the repositories that they require.
 
 ## Other things to install: 
 * Litecoin
