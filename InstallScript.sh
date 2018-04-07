@@ -70,7 +70,17 @@ done
 
 function install_webupd8_programs {
 PPA=('ppa:webupd8team/tor-browser' 'ppa:webupd8team/brackets' 'ppa:webupd8team/sublime-text-3' 'pa:webupd8team/atom' 'ppa:snwh/pulp' 'ppa:webupd8team/y-ppa-manager' 'ppa:nilarimogard/webupd8' 'ppa:unit193/encryption' 'ppa:bitcoin/bitcoin')
-WEBUPD8=('y-ppa-manager' 'tor-browser' 'brackets' 'sublime-text-installer' 'atom' 'paper-gtk-theme' 'youtube-dlg' 'veracrypt' 'bitcoin-qt')
+WEBUPD8=(
+'y-ppa-manager' 
+'tor-browser' 
+'brackets' 
+'sublime-text-installer' 
+'atom' 
+'paper-gtk-theme' 
+'youtube-dlg' 
+'veracrypt' 
+'bitcoin-qt'
+)
 # Extra PPAs from webupd8 added here:
 for item in ${PPA[*]};
 do
