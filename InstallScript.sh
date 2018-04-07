@@ -1,7 +1,7 @@
 #!/bin/bash
 function install_basic_programs {
 SOFTWARE=(
-'abook'
+'abook' # http://abook.sourceforge.net/
 'artha'
 'audacity'
 'beets'
