@@ -121,7 +121,6 @@ install_from_ppa ppa:jfswitz/released pdf-compressor
 install_multisystem
 #install tuxboot
 install_from_ppa ppa:thomas.tsai/ubuntu-tuxboot tuxboot
-setup_bluray_playback
 # Clean up afterwards
 dpkg --get-selections >after.txt
 diff -y before.txt after.txt >comparison.txt
