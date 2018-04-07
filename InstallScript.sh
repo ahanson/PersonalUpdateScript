@@ -23,43 +23,43 @@ SOFTWARE=(
 'gsmartcontrol' #https://gsmartcontrol.sourceforge.io/home/
 'gtypist' #https://www.gnu.org/software/gtypist/index.html
 'hardinfo' #https://help.ubuntu.com/community/HardInfo
-'htop' #
-'i7z' #
-'inxi' #
-'isomaster' # 
-'inkscape' #
-'ipscan' # 
-'jekyll' # 
-'keepassx' # 
-'links' #
-'lyx' # 
-'meld' 
-'mercurial' 
-'milkytracker' 
-'mixxx' 
-'moc' 
-'mosh' 
-'pdfmod' 
-'pdfshuffler' 
-'puddletag' 
-'pyrenamer' 
-'shellcheck' 
-'skypeforlinux' 
-'soundconverter' 
-'sqliteman' 
-'sqlitebrowser' 
-'steam' 
-'testdisk'
-'ubuntu-make' 
-'unetbootin' 
-'virtualbox' 
-'virtualbox-qt' 
-'wordgrinder' 
-'wine' 
-'winetricks' 
-'wireshark' 
-'xfburn' 
-'zenmap'
+'htop' #https://hisham.hm/htop/
+'i7z' #http://www.webupd8.org/2014/04/i7z-monitor-intel-i7-i5-and-i3.html
+'inxi' #https://smxi.org/docs/inxi.htm
+'isomaster' #http://littlesvr.ca/isomaster/
+'inkscape' #https://inkscape.org/en/
+'ipscan' #http://angryip.org/download/#linux
+'jekyll' #https://jekyllrb.com/
+'keepassx' #https://www.keepassx.org/
+'links' #http://links.twibright.com/
+'lyx' #https://www.lyx.org/
+'meld' #http://meldmerge.org/
+'mercurial' #https://www.youtube.com/watch?v=A5ERnZAejPQ&t=27s
+'milkytracker' #https://milkytracker.titandemo.org/
+'mixxx' #https://www.mixxx.org/
+'moc' #http://moc.daper.net/
+'mosh' #https://mosh.org/
+'pdfmod' #https://wiki.gnome.org/Apps/PdfMod
+'pdfshuffler' # 
+'puddletag' #
+'pyrenamer' #
+'shellcheck' #
+'skypeforlinux' #
+'soundconverter' #
+'sqliteman' #
+'sqlitebrowser' #
+'steam' #
+'testdisk' #
+'ubuntu-make' # 
+'unetbootin' # 
+'virtualbox' # 
+'virtualbox-qt' # 
+'wordgrinder' #
+'wine' #
+'winetricks' #
+'wireshark' #
+'xfburn' #
+'zenmap' #
 )
 for program in ${SOFTWARE[*]};
 do
