@@ -122,5 +122,7 @@ install_multisystem
 setup_bluray_playback
 # Clean up afterwards
 dpkg --get-selections >after.txt
+diff -y before.txt after.txt >comparison.txt
+rm before.txt after.txt
 sudo apt-get autoclean
 sudo apt-get -y autoremove
