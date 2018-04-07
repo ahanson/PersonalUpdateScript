@@ -9,20 +9,20 @@ SOFTWARE=(
 'bmon' #https://github.com/tgraf/bmon
 'brasero' #https://wiki.gnome.org/Apps/Brasero
 'catfish' #http://www.twotoasts.de/index.php/catfish/
-'dosbox'
-'dos2unix'
-'dropbox'
-'fdupes'
-'filezilla'
-'fslint'
-'geany'
-'giada'
-'git'
-'gnome-clocks'
-'gparted'
-'gsmartcontrol'
-'gtypist'
-'hardinfo'
+'dosbox' #https://www.dosbox.com/
+'dos2unix' #http://dos2unix.sourceforge.net/
+'dropbox' #https://www.dropbox.com/
+'fdupes' #https://github.com/adrianlopezroche/fdupes
+'filezilla' #https://filezilla-project.org/
+'fslint' #
+'geany' #
+'giada' #
+'git' # 
+'gnome-clocks' #
+'gparted' #
+'gsmartcontrol' #
+'gtypist' #
+'hardinfo' #
 'htp'
 'htop'
 'i7z'
