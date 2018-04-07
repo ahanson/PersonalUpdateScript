@@ -85,7 +85,7 @@ sudo dpkg -i sendanywhere_latest_amd64.deb
 
 function install_from_package {
     wget $1
-    sudo dkpg -i $2
+    sudo dpkg -i $2
 }
 
 function install_from_ppa {
