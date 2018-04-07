@@ -140,5 +140,7 @@ install_syncthing
 dpkg --get-selections >after.txt
 diff -y before.txt after.txt >comparison.txt
 rm before.txt after.txt
+rm *.deb
+rm *.key
 sudo apt-get autoclean
 sudo apt-get -y autoremove
