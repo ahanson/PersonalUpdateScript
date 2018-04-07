@@ -83,6 +83,19 @@ wget https://update.send-anywhere.com/linux_downloads/sendanywhere_latest_amd64.
 sudo dpkg -i sendanywhere_latest_amd64.deb
 }
 
+function install_syncthing {
+sudo apt-get -y install apt-transport-https
+# Add the release PGP keys:
+curl -s https://syncthing.net/release-key.txt | sudo apt-key add -
+
+# Add the "stable" channel to your APT sources:
+echo "deb https://apt.syncthing.net/ syncthing stable" | sudo tee /etc/apt/sources.list.d/syncthing.list
+
+# Update and install syncthing:
+sudo apt-get update
+sudo apt-get -y install syncthing
+}
+
 function install_from_package {
     wget $1
     sudo dpkg -i $2
