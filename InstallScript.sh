@@ -14,26 +14,25 @@ SOFTWARE=(
 'dropbox' #https://www.dropbox.com/
 'fdupes' #https://github.com/adrianlopezroche/fdupes
 'filezilla' #https://filezilla-project.org/
-'fslint' #
-'geany' #
-'giada' #
-'git' # 
-'gnome-clocks' #
-'gparted' #
-'gsmartcontrol' #
-'gtypist' #
-'hardinfo' #
-'htp'
-'htop'
-'i7z'
-'inxi' 
-'isomaster' 
-'inkscape' 
-'ipscan' 
-'jekyll' 
-'keepassx' 
-'links' 
-'lyx' 
+'fslint' #https://www.pixelbeat.org/fslint/
+'geany' #https://www.geany.org/
+'giada' #https://www.giadamusic.com/
+'git' #https://git-scm.com/
+'gnome-clocks' #https://help.gnome.org/users/gnome-clocks/stable/
+'gparted' #https://gparted.org/
+'gsmartcontrol' #https://gsmartcontrol.sourceforge.io/home/
+'gtypist' #https://www.gnu.org/software/gtypist/index.html
+'hardinfo' #https://help.ubuntu.com/community/HardInfo
+'htop' #
+'i7z' #
+'inxi' #
+'isomaster' # 
+'inkscape' #
+'ipscan' # 
+'jekyll' # 
+'keepassx' # 
+'links' #
+'lyx' # 
 'meld' 
 'mercurial' 
 'milkytracker' 
