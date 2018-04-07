@@ -1,14 +1,14 @@
 #!/bin/bash
 function install_basic_programs {
 SOFTWARE=(
-'abook' # http://abook.sourceforge.net/
+'abook' # http://abook.sourceforge.net/ 
 'artha' #http://artha.sourceforge.net/wiki/index.php/Home
-'audacity'
-'beets'
-'bleachbit'
-'bmon'
-'brasero'
-'catfish'
+'audacity' #https://www.audacityteam.org/
+'beets' #http://beets.io/
+'bleachbit' #http://bleachbit.com/
+'bmon' #https://github.com/tgraf/bmon
+'brasero' #https://wiki.gnome.org/Apps/Brasero
+'catfish' #http://www.twotoasts.de/index.php/catfish/
 'dosbox'
 'dos2unix'
 'dropbox'
