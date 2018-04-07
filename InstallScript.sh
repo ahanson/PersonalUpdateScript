@@ -1,6 +1,6 @@
 #!/bin/bash
 function install_basic_programs {
-SOFTWARE=('abook' 'artha' 'audacity' 'baobab' 'beets' 'bleachbit' 'bmon' 'brasero' 'catfish' 'dosbox' 'dos2unix' 'dropbox' 'fdupes' 'filezilla' 'fslint' 'gdebi' 'geany' 'giada' 'git' 'gnome-clocks' 'gparted' 'gsmartcontrol' 'gtypist' 'hardinfo' 'htp' 'htop' 'i7z' 'inxi' 'isomaster' 'inkscape' 'ipscan' 'jekyll' 'keepassx' 'links' 'lyx' 'meld' 'mercurial' 'milkytracker' 'mixxx' 'moc' 'mosh' 'pdfmod' 'pdfshuffler' 'puddletag' 'pyrenamer' 'ruby' 'shellcheck' 'skypeforlinux' 'soundconverter' 'sqliteman' 'sqlitebrowser' 'steam' 'testdisk' 'transmission-gtk' 'ubuntu-make' 'unetbootin' 'virtualbox' 'virtualbox-qt' 'vlc' 'wordgrinder' 'wine' 'winetricks' 'wireshark' 'xfburn' 'zenmap')
+SOFTWARE=('abook' 'artha' 'audacity' 'beets' 'bleachbit' 'bmon' 'brasero' 'catfish' 'dosbox' 'dos2unix' 'dropbox' 'fdupes' 'filezilla' 'fslint' 'geany' 'giada' 'git' 'gnome-clocks' 'gparted' 'gsmartcontrol' 'gtypist' 'hardinfo' 'htp' 'htop' 'i7z' 'inxi' 'isomaster' 'inkscape' 'ipscan' 'jekyll' 'keepassx' 'links' 'lyx' 'meld' 'mercurial' 'milkytracker' 'mixxx' 'moc' 'mosh' 'pdfmod' 'pdfshuffler' 'puddletag' 'pyrenamer' 'shellcheck' 'skypeforlinux' 'soundconverter' 'sqliteman' 'sqlitebrowser' 'steam' 'testdisk' 'ubuntu-make' 'unetbootin' 'virtualbox' 'virtualbox-qt' 'wordgrinder' 'wine' 'winetricks' 'wireshark' 'xfburn' 'zenmap')
 for program in ${SOFTWARE[*]};
 do
     sudo apt-get -y install "$program"
@@ -84,7 +84,6 @@ sudo dpkg -i sendanywhere_latest_amd64.deb
 }
 
 function install_syncthing {
-sudo apt-get -y install apt-transport-https
 # Add the release PGP keys:
 curl -s https://syncthing.net/release-key.txt | sudo apt-key add -
 
