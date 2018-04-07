@@ -106,6 +106,7 @@ cd ~/.config/aacs/ && wget http://vlc-bluray.whoknowsmy.name/files/KEYDB.cfg
 # Now that all the functions are declaired, run them:
 sudo apt-get update
 sudo apt-get -y dist-upgrade
+dpkg --get-selections >before.txt
 install_basic_programs
 install_webupd8_programs
 install_chromebrowser
@@ -120,5 +121,6 @@ install_from_ppa ppa:jfswitz/released pdf-compressor
 install_multisystem
 setup_bluray_playback
 # Clean up afterwards
+dpkg --get-selections >after.txt
 sudo apt-get autoclean
 sudo apt-get -y autoremove
