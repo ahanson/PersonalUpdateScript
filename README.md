@@ -4,9 +4,9 @@ Here's my personal install script. It's meant for [Linux Mint 18.3 Cinnamon](htt
 
 It adds all my usual programs and the repositories that they require.
 
-##List of Software:
+## List of Software:
 
-###Accessories: General
+### Accessories: General
 
 * **[Geany](http://www.geany.org/)**: Text editor with a ton of features.
 * **[Gnome-Schedule](http://gnome-schedule.sourceforge.net/)**: graphical front-end for **[Cron](https://en.wikipedia.org/wiki/Cron)** and **[At](http://www.brunolinux.com/02-The_Terminal/The_at_Command.html)**.
