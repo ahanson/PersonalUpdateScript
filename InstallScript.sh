@@ -106,6 +106,7 @@ cd ~/.config/aacs/ && wget http://vlc-bluray.whoknowsmy.name/files/KEYDB.cfg
 # Now that all the functions are declaired, run them:
 sudo apt-get update
 sudo apt-get -y dist-upgrade
+touch before.txt after.txt comparison.txt
 dpkg --get-selections >before.txt
 install_basic_programs
 install_webupd8_programs
