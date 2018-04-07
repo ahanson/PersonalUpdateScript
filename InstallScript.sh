@@ -2,7 +2,7 @@
 function install_basic_programs {
 SOFTWARE=(
 'abook' # http://abook.sourceforge.net/
-'artha'
+'artha' #http://artha.sourceforge.net/wiki/index.php/Home
 'audacity'
 'beets'
 'bleachbit'
