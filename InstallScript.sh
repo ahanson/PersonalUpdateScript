@@ -40,8 +40,8 @@ SOFTWARE=(
 'moc' #http://moc.daper.net/
 'mosh' #https://mosh.org/
 'pdfmod' #https://wiki.gnome.org/Apps/PdfMod
-'pdfshuffler' # 
-'puddletag' #
+'pdfshuffler' #https://github.com/jeromerobert/pdfshuffler
+'puddletag' #http://docs.puddletag.net/
 'pyrenamer' #
 'shellcheck' #
 'skypeforlinux' #
