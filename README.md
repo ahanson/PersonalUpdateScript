@@ -38,7 +38,6 @@ It adds all my usual programs and the repositories that they require.
 ### Accessories: System Maintainance:
 
 * **[BleachBit](http://bleachbit.sourceforge.net/)**: Deletes temp files.
-* **[ClamTk Antivirus](http://clamtk.sourceforge.net/)**: Finds Windows viruses.
 * **[Y PPA Manager](https://launchpad.net/~webupd8team/+archive/ubuntu/y-ppa-manager)**: Add and remove extra repositories easily. Not so useful under Mint, as that distro has its' own source administration program.
 
 ### Virtualization / Emulation:
