@@ -137,14 +137,6 @@ sudo add-apt-repository -y ppa:dawidd0811/neofetch-daily
 sudo apt-get update
 sudo apt-get install -y neofetch
 	}
-
-function install_pdfcompressor {
-# Install PDF Compressor:
-sudo add-apt-repository -y ppa:jfswitz/released
-sudo apt-get update
-sudo apt-get -y install pdf-compressor
-	}
-
 function install_sendanywhere {
 # Install Send Anywhere:
 wget https://update.send-anywhere.com/linux_downloads/sendanywhere_latest_amd64.deb
@@ -203,8 +195,6 @@ install_latest_virtualbox
 install_from_ppa ppa:dawidd0811/neofetch-daily neofetch
 #install_sendanywhere
 install_from_package https://update.send-anywhere.com/linux_downloads/sendanywhere_latest_amd64.deb sendanywhere_latest_amd64.deb
-#install_pdfcompressor
-install_from_ppa ppa:jfswitz/released pdf-compressor
 install_multisystem
 #install tuxboot
 install_from_ppa ppa:thomas.tsai/ubuntu-tuxboot tuxboot
