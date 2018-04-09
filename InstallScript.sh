@@ -52,10 +52,6 @@ SOFTWARE=(
 'testdisk' #https://www.cgsecurity.org/wiki/TestDisk
 'ubuntu-make' #https://wiki.ubuntu.com/ubuntu-make
 'unetbootin' #https://unetbootin.github.io/
-# Replace with a script to install the latest virtualbox.
-'virtualbox' #https://www.virtualbox.org/
-'virtualbox-qt' #https://launchpad.net/ubuntu/xenial/+package/virtualbox-qt
-#
 'wordgrinder' #http://cowlark.com/wordgrinder/
 'wine' #https://www.winehq.org/
 'winetricks' #https://wiki.winehq.org/Winetricks
@@ -165,6 +161,13 @@ sudo apt-get update
 sudo apt-get -y install syncthing
 }
 
+function install_latest_virtualbox {
+echo "deb https://download.virtualbox.org/virtualbox/debian xenial contrib" | sudo tee /etc/apt/sources.list
+wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
+sudo apt-get update
+sudo apt-get install virtualbox-5.2
+}
+
 function install_from_package {
     wget $1
     sudo dpkg -i $2
@@ -195,6 +198,7 @@ install_webupd8_programs
 install_chromebrowser
 install_insync
 install_dukto
+install_latest_virtualbox
 #install_neofetch
 install_from_ppa ppa:dawidd0811/neofetch-daily neofetch
 #install_sendanywhere
