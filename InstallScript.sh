@@ -42,24 +42,24 @@ SOFTWARE=(
 'pdfmod' #https://wiki.gnome.org/Apps/PdfMod
 'pdfshuffler' #https://github.com/jeromerobert/pdfshuffler
 'puddletag' #http://docs.puddletag.net/
-'pyrenamer' #
-'shellcheck' #
-'skypeforlinux' #
-'soundconverter' #
-'sqliteman' #
-'sqlitebrowser' #
-'steam' #
-'testdisk' #
-'ubuntu-make' # 
-'unetbootin' # 
-'virtualbox' # 
-'virtualbox-qt' # 
-'wordgrinder' #
-'wine' #
-'winetricks' #
-'wireshark' #
-'xfburn' #
-'zenmap' #
+'pyrenamer' #https://launchpad.net/pyrenamer
+'shellcheck' #https://www.shellcheck.net/
+'skypeforlinux' #https://www.skype.com/en/get-skype/skype-for-linux/
+'soundconverter' #http://soundconverter.org/
+'sqliteman' #http://sqliteman.yarpen.cz/
+'sqlitebrowser' #http://sqlitebrowser.org/
+'steam' #http://store.steampowered.com/
+'testdisk' #https://www.cgsecurity.org/wiki/TestDisk
+'ubuntu-make' #https://wiki.ubuntu.com/ubuntu-make
+'unetbootin' #https://unetbootin.github.io/
+'virtualbox' #https://www.virtualbox.org/
+'virtualbox-qt' #https://launchpad.net/ubuntu/xenial/+package/virtualbox-qt
+'wordgrinder' #http://cowlark.com/wordgrinder/
+'wine' #https://www.winehq.org/
+'winetricks' #https://wiki.winehq.org/Winetricks
+'wireshark' #https://goodies.xfce.org/projects/applications/xfburn
+'xfburn' #https://goodies.xfce.org/projects/applications/xfburn
+'zenmap' #https://nmap.org/zenmap/
 )
 for program in ${SOFTWARE[*]};
 do
