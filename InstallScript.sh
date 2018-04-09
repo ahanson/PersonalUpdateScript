@@ -81,7 +81,7 @@ WEBUPD8=(
 # Extra PPAs from webupd8 added here:
 for item in ${PPA[*]};
 do
-    sudo add-apt-repository -y $item || echo $item "wasn't added properly."
+    sudo add-apt-repository -y "$item" || echo "$item" "wasn't added properly."
 done
 sudo apt-get update
 # Install software from webupd8: (including the Atom editor, the Tor Browser Bundle, Veracrypt, the Youtube DL GUI).
