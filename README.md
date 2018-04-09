@@ -185,9 +185,6 @@ It adds all my usual programs and the repositories that they require.
 ### Office: Time Tracking: 
 
 * **[Gnome Clocks](https://help.gnome.org/misc/release-notes/3.6/lookingforward-clocks.html.en)**: timers.
-* **[Hamster](http://projecthamster.wordpress.com/)**: Time tracking program. Will give you reports about what you have been doing over time.
-* **[toggl](https://toggl.com/)**: Online time tracker.
-* **[Tomighty Timer](http://www.tomighty.org/)**: Java-based timer program.
 
 ### Random: 
 
