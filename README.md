@@ -51,7 +51,6 @@ It adds all my usual programs and the repositories that they require.
 * **[Pastebin](http://pastebin.com/u/ahanson)**: Text-sharing website, good for saving files and snippets publicly.
 * **[Meld](http://meldmerge.org/)**: Helps resolve differences between files..
 * **[Mercurial](http://mercurial.selenic.com/)**: Version Control.
-* **[HTP](http://htp.sourceforge.net/)**: Static Site Generator.
 * **[Jekyll](http://jekyllrb.com/)**: Static Site Generator.
 * **[Sinatra](http://www.sinatrarb.com/)**: Web Development Framework.
 * Web links to my various servers and documentation places.
@@ -89,7 +88,6 @@ It adds all my usual programs and the repositories that they require.
 * **[Inkscape](https://inkscape.org/en/):** Complicated / powerful vector graphics software.
 * **[Gimp](http://www.gimp.org/):** Opensource alternative to Photoshop.
 * RecordMyDesktop: 
-* **[SimpleScan](http://lifehacker.com/5483366/simple-scan-makes-linux-scanning-beginner-friendly):** Scanner for Linux.
 * **[Trimage](http://trimage.org/)**:
 * **[Viewnor](http://siyanpanayotov.com/project/viewnior/):** Image viewer with basic editing features.
 
