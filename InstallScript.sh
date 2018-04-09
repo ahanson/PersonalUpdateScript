@@ -39,6 +39,7 @@ SOFTWARE=(
 'mixxx' #https://www.mixxx.org/
 'moc' #http://moc.daper.net/
 'mosh' #https://mosh.org/
+'mps-youtube' #https://github.com/mps-youtube/mps-youtube
 'pdfmod' #https://wiki.gnome.org/Apps/PdfMod
 'pdfshuffler' #https://github.com/jeromerobert/pdfshuffler
 'puddletag' #http://docs.puddletag.net/
