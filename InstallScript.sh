@@ -87,7 +87,7 @@ sudo apt-get update
 # Install software from webupd8: (including the Atom editor, the Tor Browser Bundle, Veracrypt, the Youtube DL GUI).
 for w in ${WEBUPD8[*]};
 do
-    sudo apt-get -y install $w
+    sudo apt-get -y install "$w"
 done
 	}
 
@@ -169,14 +169,14 @@ sudo apt-get install virtualbox-5.2
 }
 
 function install_from_package {
-    wget $1
-    sudo dpkg -i $2
+    wget "$1"
+    sudo dpkg -i "$2"
 }
 
 function install_from_ppa {
-    sudo add-apt-repository -y $1
+    sudo add-apt-repository -y "$1"
     sudo apt-get update
-    sudo apt-get -y install $2
+    sudo apt-get -y install "$2"
 }
 
 function setup_bluray_playback {
