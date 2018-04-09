@@ -52,8 +52,10 @@ SOFTWARE=(
 'testdisk' #https://www.cgsecurity.org/wiki/TestDisk
 'ubuntu-make' #https://wiki.ubuntu.com/ubuntu-make
 'unetbootin' #https://unetbootin.github.io/
+# Replace with a script to install the latest virtualbox.
 'virtualbox' #https://www.virtualbox.org/
 'virtualbox-qt' #https://launchpad.net/ubuntu/xenial/+package/virtualbox-qt
+#
 'wordgrinder' #http://cowlark.com/wordgrinder/
 'wine' #https://www.winehq.org/
 'winetricks' #https://wiki.winehq.org/Winetricks
