@@ -31,7 +31,7 @@ SOFTWARE=(
 'ipscan' #http://angryip.org/download/#linux
 'jekyll' #https://jekyllrb.com/
 'keepassx' #https://www.keepassx.org/
-'libvirt-bin'
+'libvirt-bin' #https://virt-manager.org/
 'links' #http://links.twibright.com/
 'lyx' #https://www.lyx.org/
 'meld' #http://meldmerge.org/
