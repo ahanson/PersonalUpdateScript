@@ -31,6 +31,7 @@ SOFTWARE=(
 'ipscan' #http://angryip.org/download/#linux
 'jekyll' #https://jekyllrb.com/
 'keepassx' #https://www.keepassx.org/
+'libvirt-bin'
 'links' #http://links.twibright.com/
 'lyx' #https://www.lyx.org/
 'meld' #http://meldmerge.org/
@@ -54,6 +55,7 @@ SOFTWARE=(
 'testdisk' #https://www.cgsecurity.org/wiki/TestDisk
 'ubuntu-make' #https://wiki.ubuntu.com/ubuntu-make
 'unetbootin' #https://unetbootin.github.io/
+'virt-manager' #https://virt-manager.org/
 'wordgrinder' #http://cowlark.com/wordgrinder/
 'wine' #https://www.winehq.org/
 'winetricks' #https://wiki.winehq.org/Winetricks
