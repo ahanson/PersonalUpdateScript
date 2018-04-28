@@ -70,7 +70,17 @@ done
 	}
 
 function install_webupd8_programs {
-PPA=('ppa:webupd8team/tor-browser' 'ppa:webupd8team/brackets' 'ppa:webupd8team/sublime-text-3' 'pa:webupd8team/atom' 'ppa:snwh/pulp' 'ppa:webupd8team/y-ppa-manager' 'ppa:nilarimogard/webupd8' 'ppa:unit193/encryption' 'ppa:bitcoin/bitcoin')
+PPA=(
+'ppa:webupd8team/tor-browser'
+'ppa:webupd8team/brackets'
+'ppa:webupd8team/sublime-text-3'
+'pa:webupd8team/atom'
+'ppa:snwh/pulp'
+'ppa:webupd8team/y-ppa-manager'
+'ppa:nilarimogard/webupd8'
+'ppa:unit193/encryption'
+'ppa:bitcoin/bitcoin'
+)
 WEBUPD8=(
 'atom' #https://atom.io/
 'brackets' #http://brackets.io/
