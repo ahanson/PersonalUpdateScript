@@ -185,14 +185,14 @@ function install_from_ppa {
     sudo apt-get -y install "$2"
 }
 
-function setup_bluray_playback {
+#function setup_bluray_playback {
 # Dan's script for setting up bluray disk playback.
 # Haven't tested it much.
 # https://www.howtogeek.com/240487/how-to-play-dvds-and-blu-rays-on-linux/
-sudo apt-get install -y vlc libaacs0 libbluray-bdj libbluray1
-mkdir -p ~/.config/aacs/
-cd ~/.config/aacs/ && wget http://vlc-bluray.whoknowsmy.name/files/KEYDB.cfg
-}
+#sudo apt-get install -y vlc libaacs0 libbluray-bdj libbluray1
+#mkdir -p ~/.config/aacs/
+#cd ~/.config/aacs/ && wget http://vlc-bluray.whoknowsmy.name/files/KEYDB.cfg
+#}
 
 # Now that all the functions are declaired, run them:
 sudo apt-get update
