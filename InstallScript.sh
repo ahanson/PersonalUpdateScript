@@ -46,6 +46,7 @@ SOFTWARE=(
 'pdfshuffler' #https://github.com/jeromerobert/pdfshuffler
 'puddletag' #http://docs.puddletag.net/
 'pyrenamer' #https://launchpad.net/pyrenamer
+'scribus' #https://www.scribus.net/
 'shellcheck' #https://www.shellcheck.net/
 'skypeforlinux' #https://www.skype.com/en/get-skype/skype-for-linux/
 'soundconverter' #http://soundconverter.org/
