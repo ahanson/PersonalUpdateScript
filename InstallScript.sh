@@ -41,7 +41,8 @@ SOFTWARE=(
 'moc' #http://moc.daper.net/
 'mosh' #https://mosh.org/
 'mps-youtube' #https://github.com/mps-youtube/mps-youtube
-'pandoc' #https://pandoc.org/
+'pandoc' #https://pandoc.org
+'pdfchain' #http://pdfchain.sourceforge.net/
 'pdfmod' #https://wiki.gnome.org/Apps/PdfMod
 'pdfshuffler' #https://github.com/jeromerobert/pdfshuffler
 'puddletag' #http://docs.puddletag.net/
