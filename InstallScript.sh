@@ -42,7 +42,6 @@ SOFTWARE=(
 'mosh' #https://mosh.org/
 'mps-youtube' #https://github.com/mps-youtube/mps-youtube
 'pandoc' #https://pandoc.org
-'pdfchain' #http://pdfchain.sourceforge.net/
 'pdfmod' #https://wiki.gnome.org/Apps/PdfMod
 'pdfshuffler' #https://github.com/jeromerobert/pdfshuffler
 'puddletag' #http://docs.puddletag.net/
@@ -214,6 +213,7 @@ install_from_package https://update.send-anywhere.com/linux_downloads/sendanywhe
 install_multisystem
 #install tuxboot
 install_from_ppa ppa:thomas.tsai/ubuntu-tuxboot tuxboot
+install_from_ppa ppa:pdfchain-team/ppa pdfchain
 install_syncthing
 # Clean up afterwards
 dpkg --get-selections >after.txt
