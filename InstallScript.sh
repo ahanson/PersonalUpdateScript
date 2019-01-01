@@ -1,68 +1,68 @@
 #!/bin/bash
 function install_basic_programs {
 SOFTWARE=(
-'abook' # http://abook.sourceforge.net/ 
-'artha' #http://artha.sourceforge.net/wiki/index.php/Home
-'audacity' #https://www.audacityteam.org/
-'beets' #http://beets.io/
-'bleachbit' #http://bleachbit.com/
-'bmon' #https://github.com/tgraf/bmon
-'brasero' #https://wiki.gnome.org/Apps/Brasero
-'catfish' #http://www.twotoasts.de/index.php/catfish/
-'dosbox' #https://www.dosbox.com/
-'dos2unix' #http://dos2unix.sourceforge.net/
-'dropbox' #https://www.dropbox.com/
-'fdupes' #https://github.com/adrianlopezroche/fdupes
-'filezilla' #https://filezilla-project.org/
-'fslint' #https://www.pixelbeat.org/fslint/
-'geany' #https://www.geany.org/
-'giada' #https://www.giadamusic.com/
-'git' #https://git-scm.com/
-'gnome-clocks' #https://help.gnome.org/users/gnome-clocks/stable/
-'gparted' #https://gparted.org/
-'gsmartcontrol' #https://gsmartcontrol.sourceforge.io/home/
-'gtypist' #https://www.gnu.org/software/gtypist/index.html
-'hardinfo' #https://help.ubuntu.com/community/HardInfo
-'htop' #https://hisham.hm/htop/
-'i7z' #http://www.webupd8.org/2014/04/i7z-monitor-intel-i7-i5-and-i3.html
-'inxi' #https://smxi.org/docs/inxi.htm
-'isomaster' #http://littlesvr.ca/isomaster/
-'inkscape' #https://inkscape.org/en/
-'ipscan' #http://angryip.org/download/#linux
-'jekyll' #https://jekyllrb.com/
-'keepassx' #https://www.keepassx.org/
-'libvirt-bin' #https://virt-manager.org/
-'links' #http://links.twibright.com/
-'lyx' #https://www.lyx.org/
-'meld' #http://meldmerge.org/
-'mercurial' #https://www.youtube.com/watch?v=A5ERnZAejPQ&t=27s
-'milkytracker' #https://milkytracker.titandemo.org/
-'mixxx' #https://www.mixxx.org/
-'moc' #http://moc.daper.net/
-'mosh' #https://mosh.org/
-'mps-youtube' #https://github.com/mps-youtube/mps-youtube
-'pandoc' #https://pandoc.org
-'pdfmod' #https://wiki.gnome.org/Apps/PdfMod
-'pdfshuffler' #https://github.com/jeromerobert/pdfshuffler
-'puddletag' #http://docs.puddletag.net/
-'pyrenamer' #https://launchpad.net/pyrenamer
-'scribus' #https://www.scribus.net/
-'shellcheck' #https://www.shellcheck.net/
-'skypeforlinux' #https://www.skype.com/en/get-skype/skype-for-linux/
-'soundconverter' #http://soundconverter.org/
-'sqliteman' #http://sqliteman.yarpen.cz/
-'sqlitebrowser' #http://sqlitebrowser.org/
-'steam' #http://store.steampowered.com/
-'testdisk' #https://www.cgsecurity.org/wiki/TestDisk
-'ubuntu-make' #https://wiki.ubuntu.com/ubuntu-make
-'unetbootin' #https://unetbootin.github.io/
-'virt-manager' #https://virt-manager.org/
-'wordgrinder' #http://cowlark.com/wordgrinder/
-'wine' #https://www.winehq.org/
-'winetricks' #https://wiki.winehq.org/Winetricks
-'wireshark' #https://goodies.xfce.org/projects/applications/xfburn
-'xfburn' #https://goodies.xfce.org/projects/applications/xfburn
-'zenmap' #https://nmap.org/zenmap/
+'abook' # http://abook.sourceforge.net/ | CLI Address Book
+'artha' #http://artha.sourceforge.net/wiki/index.php/Home | Thesaurus
+'audacity' #https://www.audacityteam.org/ | WAV Editor
+'beets' #http://beets.io/ | Music Management System
+'bleachbit' #http://bleachbit.com/ | Disk Space Cleaner
+'bmon' #https://github.com/tgraf/bmon | CLI bandwith monitor
+'brasero' #https://wiki.gnome.org/Apps/Brasero | CD/DVD Burner
+'catfish' #http://www.twotoasts.de/index.php/catfish/ | File Search Program
+'dosbox' #https://www.dosbox.com/ | DOS Emulator
+'dos2unix' #http://dos2unix.sourceforge.net/ | Converts files from dos format to unix format
+'dropbox' #https://www.dropbox.com/ | Cloud Storage
+'fdupes' #https://github.com/adrianlopezroche/fdupes | CLI duplicate file detector
+'filezilla' #https://filezilla-project.org/ | FTP/SFTP Client
+'fslint' #https://www.pixelbeat.org/fslint/ | Duplicate file detector
+'geany' #https://www.geany.org/ | Text Editor
+'giada' #https://www.giadamusic.com/ | Sampler/Sequencer
+'git' #https://git-scm.com/ | VCS
+'gnome-clocks' #https://help.gnome.org/users/gnome-clocks/stable/ | Timer
+'gparted' #https://gparted.org/ | Partition Editor
+'gsmartcontrol' #https://gsmartcontrol.sourceforge.io/home/ | HDD Information/Testing
+'gtypist' #https://www.gnu.org/software/gtypist/index.html | Typing Tutor
+'hardinfo' #https://help.ubuntu.com/community/HardInfo | Hardware information
+'htop' #https://hisham.hm/htop/ | System stats and process information
+'i7z' #http://www.webupd8.org/2014/04/i7z-monitor-intel-i7-i5-and-i3.html |
+'inxi' #https://smxi.org/docs/inxi.htm | Straightforward system information
+'isomaster' #http://littlesvr.ca/isomaster/ | Creates and edits ISO files
+'inkscape' #https://inkscape.org/en/ | SVG editor
+'ipscan' #http://angryip.org/download/#linux | Simple network scanner
+'jekyll' #https://jekyllrb.com/ | Static Site Generator
+'keepassx' #https://www.keepassx.org/ | Password Manager
+'libvirt-bin' #https://virt-manager.org/ | Virtualization Manager
+'links' #http://links.twibright.com/ | CLI web browser
+'lyx' #https://www.lyx.org/ | Latex Word Processor
+'meld' #http://meldmerge.org/ | Diff editor
+'mercurial' #https://www.youtube.com/watch?v=A5ERnZAejPQ&t=27s | VCS
+'milkytracker' #https://milkytracker.titandemo.org/ | Sequencer
+'mixxx' #https://www.mixxx.org/ | DJ Mix Software
+'moc' #http://moc.daper.net/ | CLI Mp3 Player
+'mosh' #https://mosh.org/ | Mobile SSH
+'mps-youtube' #https://github.com/mps-youtube/mps-youtube | CLI Youtube Playback
+'pandoc' #https://pandoc.org | converts various markdown formats
+'pdfmod' #https://wiki.gnome.org/Apps/PdfMod | PDF Editor
+'pdfshuffler' #https://github.com/jeromerobert/pdfshuffler | PDF Editor
+'puddletag' #http://docs.puddletag.net/ | Music Metadata Editor
+'pyrenamer' #https://launchpad.net/pyrenamer | Mass File Renamer
+'scribus' #https://www.scribus.net/ | desktop publishing
+'shellcheck' #https://www.shellcheck.net/ | finds errors in bash scripts
+'skypeforlinux' #https://www.skype.com/en/get-skype/skype-for-linux/ | VOIP
+'soundconverter' #http://soundconverter.org/ | Converts sound files between different formats
+'sqliteman' #http://sqliteman.yarpen.cz/ | Database Editor
+'sqlitebrowser' #http://sqlitebrowser.org/ | Database Editor
+'steam' #http://store.steampowered.com/ | Games Platform
+'testdisk' #https://www.cgsecurity.org/wiki/TestDisk | Data Recovery 
+'ubuntu-make' #https://wiki.ubuntu.com/ubuntu-make | Installs dev tools 
+'unetbootin' #https://unetbootin.github.io/ | Creates bootable USB sticks
+'virt-manager' #https://virt-manager.org/ | Virtualization
+'wordgrinder' #http://cowlark.com/wordgrinder/ | CLI word processor
+'wine' #https://www.winehq.org/ | Windows Emulator
+'winetricks' #https://wiki.winehq.org/Winetricks | Install stuff with Wine, easily.
+'wireshark' #https://goodies.xfce.org/projects/applications/xfburn | Network monitoring
+'xfburn' #https://goodies.xfce.org/projects/applications/xfburn | CD/DVD burner
+'zenmap' #https://nmap.org/zenmap/ | Network Scanner
 )
 for program in ${SOFTWARE[*]};
 do
