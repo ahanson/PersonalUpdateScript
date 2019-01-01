@@ -182,6 +182,22 @@ function install_from_ppa {
     sudo apt-get -y install "$2"
 }
 
+function install_neofetch {
+ install_from_ppa ppa:dawidd0811/neofetch-daily neofetch
+}
+
+function install_sendanywhere {
+install_from_package https://update.send-anywhere.com/linux_downloads/sendanywhere_latest_amd64.deb sendanywhere_latest_amd64.deb
+}
+
+function install_tuxboot {
+install_from_ppa ppa:thomas.tsai/ubuntu-tuxboot tuxboot
+}
+
+function install_pdfchain {
+install_from_ppa ppa:pdfchain-team/ppa pdfchain
+}
+
 # Now that all the functions are declaired, run them:
 sudo apt-get update
 sudo apt-get -y dist-upgrade
@@ -193,11 +209,11 @@ install_chromebrowser
 install_insync
 install_dukto
 install_latest_virtualbox
-install_from_ppa ppa:dawidd0811/neofetch-daily neofetch
-install_from_package https://update.send-anywhere.com/linux_downloads/sendanywhere_latest_amd64.deb sendanywhere_latest_amd64.deb
+install_neofetch
+install_sendanywhere
 install_multisystem
-install_from_ppa ppa:thomas.tsai/ubuntu-tuxboot tuxboot
-install_from_ppa ppa:pdfchain-team/ppa pdfchain
+install_tuxboot
+install_pdfchain
 install_syncthing
 # Clean up afterwards
 dpkg --get-selections >after.txt
