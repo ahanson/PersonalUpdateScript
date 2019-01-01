@@ -50,10 +50,14 @@
 
 * **[Pastebin](http://pastebin.com/u/ahanson)**: Text-sharing website, good for saving files and snippets publicly.
 * **[Meld](http://meldmerge.org/)**: Helps resolve differences between files..
-* **[Mercurial](http://mercurial.selenic.com/)**: Version Control.
 * **[Jekyll](http://jekyllrb.com/)**: Static Site Generator.
 * **[Sinatra](http://www.sinatrarb.com/)**: Web Development Framework.
 * Web links to my various servers and documentation places.
+
+### Development: Android:
+
+* **[Android SDK](https://developer.android.com/sdk/index.html)**: required for rooting many phones.
+* **[Heimdall](http://glassechidna.com.au/heimdall/)**: Rooting tool.
 
 ### Development: IDE:
 
@@ -64,17 +68,17 @@
 * **[Redcar](http://redcareditor.com/)**: Ruby IDE.
 * **[Sublime Text](https://www.sublimetext.com/)**:
 
-### Development: Android:
-
-* **[Android SDK](https://developer.android.com/sdk/index.html)**: required for rooting many phones.
-* **[Heimdall](http://glassechidna.com.au/heimdall/)**: Rooting tool.
-
 ### Development: Markdown:
 
 * **[Abricontine](http://abricotine.brrd.fr/)**:
 * **[Haroopad](http://pad.haroopress.com/)**:
 * **[Remarkable](http://remarkableapp.net/)**: 
 * **[UberWriter](http://uberwriter.wolfvollprecht.de/)**
+
+### Development: Version Control:
+
+* **[Mercurial](http://mercurial.selenic.com/)**:
+* **[Git](https://git-scm.com/)**:
 
 ### Games:
 
