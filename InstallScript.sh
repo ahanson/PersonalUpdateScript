@@ -156,10 +156,13 @@ sudo apt-get -y install syncthing
 }
 
 function install_latest_virtualbox {
-echo "deb https://download.virtualbox.org/virtualbox/debian xenial contrib" | sudo tee /etc/apt/sources.list
-wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
+local vbox_repo="deb https://download.virtualbox.org/virtualbox/debian xenial contrib"
+local vbox_key="https://www.virtualbox.org/download/oracle_vbox_2016.asc"
+local vbox_latest="virtualbox-5.2"
+echo "$vbox_repo" | sudo tee /etc/apt/sources.list
+wget -q "$vbox_key" -O- | sudo apt-key add -
 sudo apt-get update
-sudo apt-get install virtualbox-5.2
+sudo apt-get install "$vbox_latest"
 }
 
 function install_from_package {
