@@ -145,12 +145,6 @@ wget -q -O - http://liveusb.info/multisystem/depot/multisystem.asc | sudo apt-ke
 sudo apt-get update
 sudo apt-get -y install multisystem
 	}
-function install_sendanywhere {
-# Install Send Anywhere:
-wget https://update.send-anywhere.com/linux_downloads/sendanywhere_latest_amd64.deb
-sudo dpkg -i sendanywhere_latest_amd64.deb
-}
-
 function install_syncthing {
 # Add the release PGP keys:
 curl -s https://syncthing.net/release-key.txt | sudo apt-key add -
@@ -200,7 +194,6 @@ install_insync
 install_dukto
 install_latest_virtualbox
 install_from_ppa ppa:dawidd0811/neofetch-daily neofetch
-#install_sendanywhere
 install_from_package https://update.send-anywhere.com/linux_downloads/sendanywhere_latest_amd64.deb sendanywhere_latest_amd64.deb
 install_multisystem
 #install tuxboot
