@@ -72,8 +72,9 @@
 ### Development: Markdown:
 
 * **[Abricontine](http://abricotine.brrd.fr/)**:
+* **[Haroopad](http://pad.haroopress.com/)**:
 * **[Remarkable](http://remarkableapp.net/)**: 
-* **[UberWriter](http://uberwriter.wolfvollprecht.de/)**: Markdown editor.
+* **[UberWriter](http://uberwriter.wolfvollprecht.de/)**
 
 ### Games:
 
@@ -191,5 +192,3 @@
 
 ## Other things to install: 
 * Litecoin
-* Haroopad
-* Dropbox.
