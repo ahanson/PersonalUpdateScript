@@ -76,7 +76,6 @@ PPA=(
 'ppa:webupd8team/brackets'
 'ppa:webupd8team/sublime-text-3'
 'pa:webupd8team/atom'
-'ppa:snwh/pulp'
 'ppa:webupd8team/y-ppa-manager'
 'ppa:nilarimogard/webupd8'
 'ppa:unit193/encryption'
@@ -86,7 +85,6 @@ WEBUPD8=(
 'atom' #https://atom.io/
 'brackets' #http://brackets.io/
 'bitcoin-qt' #https://bitcoin.org/en/download
-'paper-gtk-theme' #https://snwh.org/paper
 'sublime-text-installer' #https://www.sublimetext.com/
 'tor-browser' #https://www.torproject.org/projects/torbrowser.html.en
 'veracrypt' #https://www.veracrypt.fr/en/Home.html
