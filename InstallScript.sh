@@ -145,13 +145,6 @@ wget -q -O - http://liveusb.info/multisystem/depot/multisystem.asc | sudo apt-ke
 sudo apt-get update
 sudo apt-get -y install multisystem
 	}
-
-function install_neofetch {
-# Install Neofetch:
-sudo add-apt-repository -y ppa:dawidd0811/neofetch-daily
-sudo apt-get update
-sudo apt-get install -y neofetch
-	}
 function install_sendanywhere {
 # Install Send Anywhere:
 wget https://update.send-anywhere.com/linux_downloads/sendanywhere_latest_amd64.deb
@@ -206,7 +199,6 @@ install_chromebrowser
 install_insync
 install_dukto
 install_latest_virtualbox
-#install_neofetch
 install_from_ppa ppa:dawidd0811/neofetch-daily neofetch
 #install_sendanywhere
 install_from_package https://update.send-anywhere.com/linux_downloads/sendanywhere_latest_amd64.deb sendanywhere_latest_amd64.deb
