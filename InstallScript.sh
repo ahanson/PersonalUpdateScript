@@ -82,14 +82,14 @@ PPA=(
 'ppa:bitcoin/bitcoin'
 )
 WEBUPD8=(
-'atom' #https://atom.io/
-'brackets' #http://brackets.io/
-'bitcoin-qt' #https://bitcoin.org/en/download
-'sublime-text-installer' #https://www.sublimetext.com/
-'tor-browser' #https://www.torproject.org/projects/torbrowser.html.en
-'veracrypt' #https://www.veracrypt.fr/en/Home.html
-'youtube-dlg' #https://github.com/MrS0m30n3/youtube-dl-gui
-'y-ppa-manager' #https://launchpad.net/~webupd8team/+archive/ubuntu/y-ppa-manager
+'atom' #https://atom.io/ | IDE.
+'brackets' #http://brackets.io/ | IDE.
+'bitcoin-qt' #https://bitcoin.org/en/download | Cryptocurrency.
+'sublime-text-installer' #https://www.sublimetext.com/ | IDE.
+'tor-browser' #https://www.torproject.org/projects/torbrowser.html.en | More-anonymous browsing.
+'veracrypt' #https://www.veracrypt.fr/en/Home.html | File Encryption.
+'youtube-dlg' #https://github.com/MrS0m30n3/youtube-dl-gui | Youtube Downloader.
+'y-ppa-manager' #https://launchpad.net/~webupd8team/+archive/ubuntu/y-ppa-manager | Fixes problems with PPAs.
 )
 # Extra PPAs from webupd8 added here:
 for item in ${PPA[*]};
