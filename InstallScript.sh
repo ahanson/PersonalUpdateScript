@@ -35,6 +35,7 @@ SOFTWARE=(
 'libvirt-bin' #https://virt-manager.org/ | Virtualization Manager
 'links' #http://links.twibright.com/ | CLI web browser
 'lyx' #https://www.lyx.org/ | Latex Word Processor
+'magic-wormhole' #https://magic-wormhole.readthedocs.io/en/latest/ | Share files over a network, securely
 'meld' #http://meldmerge.org/ | Diff editor
 'mercurial' #https://www.youtube.com/watch?v=A5ERnZAejPQ&t=27s | VCS
 'milkytracker' #https://milkytracker.titandemo.org/ | Sequencer
