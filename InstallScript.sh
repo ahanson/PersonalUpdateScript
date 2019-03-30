@@ -21,6 +21,7 @@ SOFTWARE=(
 'gnome-clocks' #https://help.gnome.org/users/gnome-clocks/stable/ | Timer
 'gparted' #https://gparted.org/ | Partition Editor
 'gsmartcontrol' #https://gsmartcontrol.sourceforge.io/home/ | HDD Information/Testing
+'grsync' #http://www.opbyte.it/grsync/ | GUI frontend for Rsync
 'gtypist' #https://www.gnu.org/software/gtypist/index.html | Typing Tutor
 'hardinfo' #https://help.ubuntu.com/community/HardInfo | Hardware information
 'htop' #https://hisham.hm/htop/ | System stats and process information
