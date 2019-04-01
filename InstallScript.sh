@@ -71,6 +71,7 @@ done
 	}
 
 function install_webupd8_programs {
+# Maybe webupd8 isn't maintained anymore? Need some alternate sources.
 PPA=(
 'ppa:webupd8team/brackets'
 'ppa:webupd8team/sublime-text-3'
@@ -169,6 +170,10 @@ sudo apt-get install -y vlc libaacs0 libbluray-bdj libbluray1
 mkdir -p ~/.config/aacs/
 cd ~/.config/aacs/ && wget http://vlc-bluray.whoknowsmy.name/files/KEYDB.cfg
 }
+function install_latest_vlc {
+sudo apt-get install -y snapd
+sudo snap install vlc
+}
 
 function install_from_package {
     wget "$1"
@@ -214,6 +219,7 @@ install_multisystem
 install_tuxboot
 install_pdfchain
 install_syncthing
+install_latest_vlc
 # Clean up afterwards
 dpkg --get-selections >after.txt
 diff -y before.txt after.txt >comparison.txt
