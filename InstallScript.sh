@@ -52,7 +52,6 @@ SOFTWARE=(
 'shellcheck' #https://www.shellcheck.net/ | finds errors in bash scripts
 'skypeforlinux' #https://www.skype.com/en/get-skype/skype-for-linux/ | VOIP
 'soundconverter' #http://soundconverter.org/ | Converts sound files between different formats
-'sqliteman' #http://sqliteman.yarpen.cz/ | Database Editor
 'sqlitebrowser' #http://sqlitebrowser.org/ | Database Editor
 'steam' #http://store.steampowered.com/ | Games Platform
 'testdisk' #https://www.cgsecurity.org/wiki/TestDisk | Data Recovery 
