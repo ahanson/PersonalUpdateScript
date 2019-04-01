@@ -58,7 +58,6 @@ SOFTWARE=(
 'testdisk' #https://www.cgsecurity.org/wiki/TestDisk | Data Recovery 
 'ubuntu-make' #https://wiki.ubuntu.com/ubuntu-make | Installs dev tools 
 'unetbootin' #https://unetbootin.github.io/ | Creates bootable USB sticks
-'virt-manager' #https://virt-manager.org/ | Virtualization
 'wordgrinder' #http://cowlark.com/wordgrinder/ | CLI word processor
 'wine' #https://www.winehq.org/ | Windows Emulator
 'winetricks' #https://wiki.winehq.org/Winetricks | Install stuff with Wine, easily.
