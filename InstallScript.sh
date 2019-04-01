@@ -132,7 +132,7 @@ function install_insync {
 # Install Insync:
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys ACCAF35C
 sudo touch /etc/apt/sources.list.d/insync.list
-sudo echo "deb http://apt.insynchq.com/mint sonya non-free contrib" >> /etc/apt/sources.list.d/insync.list
+sudo echo "deb http://apt.insynchq.com/mint tessa non-free contrib" >> /etc/apt/sources.list.d/insync.list
 sudo apt-get update
 sudo apt-get -y install insync
 }
