@@ -73,7 +73,6 @@ done
 
 function install_webupd8_programs {
 PPA=(
-'ppa:webupd8team/tor-browser'
 'ppa:webupd8team/brackets'
 'ppa:webupd8team/sublime-text-3'
 'pa:webupd8team/atom'
@@ -87,7 +86,6 @@ WEBUPD8=(
 'brackets' #http://brackets.io/ | IDE.
 'bitcoin-qt' #https://bitcoin.org/en/download | Cryptocurrency.
 'sublime-text-installer' #https://www.sublimetext.com/ | IDE.
-'tor-browser' #https://www.torproject.org/projects/torbrowser.html.en | More-anonymous browsing.
 'veracrypt' #https://www.veracrypt.fr/en/Home.html | File Encryption.
 'youtube-dlg' #https://github.com/MrS0m30n3/youtube-dl-gui | Youtube Downloader.
 'y-ppa-manager' #https://launchpad.net/~webupd8team/+archive/ubuntu/y-ppa-manager | Fixes problems with PPAs.
