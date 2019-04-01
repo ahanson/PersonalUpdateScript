@@ -209,7 +209,7 @@ install_basic_programs
 install_webupd8_programs
 install_chromebrowser
 install_insync
-install_dukto
+# install_dukto | maybe magic-wormhole will work better?
 install_latest_virtualbox
 install_neofetch
 install_sendanywhere
