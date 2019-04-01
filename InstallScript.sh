@@ -123,6 +123,7 @@ sudo apt-get -y install dukto
 }
 
 function install_haroopad {
+# Somebody needs to make a PPA for this.
 wget -nv https://bitbucket.org/rhiokim/haroopad-download/downloads/haroopad-v0.13.1-x64.deb
 sudo dpkg -i haroopad*.deb
 }
