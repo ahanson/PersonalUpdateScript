@@ -208,6 +208,7 @@ install_multisystem
 install_tuxboot
 install_pdfchain
 install_syncthing
+install_typora
 install_latest_vlc
 # Clean up afterwards
 dpkg --get-selections >after.txt
