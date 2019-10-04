@@ -108,16 +108,6 @@ sudo apt-get update
 sudo apt-get -y install google-chrome-stable
 	}
 
-function install_dukto {
-# Install Dukto:
-wget -nv http://download.opensuse.org/repositories/home:colomboem/xUbuntu_16.04/Release.key -O Release.key
-sudo apt-key add - < Release.key
-sudo apt-get update
-sudo sh -c "echo 'deb http://download.opensuse.org/repositories/home:/colomboem/xUbuntu_16.04/ /' > /etc/apt/sources.list.d/dukto.list"
-sudo apt-get update
-sudo apt-get -y install dukto
-}
-
 function install_insync {
 # Install Insync:
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys ACCAF35C
@@ -204,7 +194,6 @@ install_basic_programs
 install_webupd8_programs
 install_chromebrowser
 install_insync
-# install_dukto | maybe magic-wormhole will work better?
 install_latest_virtualbox
 install_neofetch
 install_sendanywhere
