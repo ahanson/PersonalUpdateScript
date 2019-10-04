@@ -118,12 +118,6 @@ sudo apt-get update
 sudo apt-get -y install dukto
 }
 
-function install_haroopad {
-# Somebody needs to make a PPA for this.
-wget -nv https://bitbucket.org/rhiokim/haroopad-download/downloads/haroopad-v0.13.1-x64.deb
-sudo dpkg -i haroopad*.deb
-}
-
 function install_insync {
 # Install Insync:
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys ACCAF35C
@@ -140,6 +134,7 @@ wget -q -O - http://liveusb.info/multisystem/depot/multisystem.asc | sudo apt-ke
 sudo apt-get update
 sudo apt-get -y install multisystem
 	}
+	
 function install_syncthing {
 # Add the release PGP keys:
 curl -s https://syncthing.net/release-key.txt | sudo apt-key add -
