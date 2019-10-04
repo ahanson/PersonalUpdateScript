@@ -79,12 +79,10 @@ PPA=(
 'ppa:webupd8team/y-ppa-manager'
 'ppa:nilarimogard/webupd8'
 'ppa:unit193/encryption'
-'ppa:bitcoin/bitcoin'
 )
 WEBUPD8=(
 'atom' #https://atom.io/ | IDE.
 'brackets' #http://brackets.io/ | IDE.
-'bitcoin-qt' #https://bitcoin.org/en/download | Cryptocurrency.
 'sublime-text-installer' #https://www.sublimetext.com/ | IDE.
 'veracrypt' #https://www.veracrypt.fr/en/Home.html | File Encryption.
 'youtube-dlg' #https://github.com/MrS0m30n3/youtube-dl-gui | Youtube Downloader.
