@@ -11,7 +11,6 @@ SOFTWARE=(
 'catfish' #http://www.twotoasts.de/index.php/catfish/ | File Search Program
 'dosbox' #https://www.dosbox.com/ | DOS Emulator
 'dos2unix' #http://dos2unix.sourceforge.net/ | Converts files from dos format to unix format
-'dropbox' #https://www.dropbox.com/ | Cloud Storage
 'fdupes' #https://github.com/adrianlopezroche/fdupes | CLI duplicate file detector
 'filezilla' #https://filezilla-project.org/ | FTP/SFTP Client
 'fslint' #https://www.pixelbeat.org/fslint/ | Duplicate file detector
