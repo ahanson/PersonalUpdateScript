@@ -145,6 +145,13 @@ sudo apt-get update
 sudo apt-get install "$vbox_latest"
 }
 
+function install_typora {
+wget -qO - https://typora.io/linux/public-key.asc | sudo apt-key add -
+sudo add-apt-repository 'deb https://typora.io/linux ./'
+sudo apt-get update
+sudo apt-get install typora
+}
+
 function setup_bluray_playback {
 #Dan's script for setting up bluray disk playback.
 #Haven't tested it much.
