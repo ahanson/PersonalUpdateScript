@@ -132,8 +132,6 @@
 * **[Artha](http://artha.sourceforge.net/wiki/index.php/Home)**: Dictionary / Thesaurus. 
 * **[Epub](https://github.com/rupa/epub)**: Command-line epub reader.
 * **[Gsimplecal](https://github.com/dmedvinsky/gsimplecal)**: Calculator.
-* **[Evince](https://projects.gnome.org/evince/)**: PDF viewer.
-* **[Gcstar](http://www.gcstar.org/)**: Collections Manager.
 * **[Glabels](http://www.glabels.org/)**: Works with Avery and other standard printer label sets you can buy from an office supply store.
 * **[MoneyDance](http://moneydance.com/)**: Accounting software.
 * **[Jdarkroom](http://www.codealchemists.com/jdarkroom/)**: Command-line text editor.
