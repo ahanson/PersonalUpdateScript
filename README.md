@@ -5,6 +5,9 @@
   * I need to update it so that it works with Linux Mint 20.
 * It adds all my usual programs and the repositories that they require.
 
+## How to download and run the script:
+
+
 ## List of Software:
 
 ### Accessories: General
