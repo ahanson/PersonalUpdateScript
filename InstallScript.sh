@@ -68,8 +68,6 @@ done
 function install_webupd8_programs {
 # Maybe webupd8 isn't maintained anymore? Need some alternate sources.
 PPA=(
-'ppa:webupd8team/brackets'
-'ppa:webupd8team/sublime-text-3'
 'pa:webupd8team/atom'
 'ppa:webupd8team/y-ppa-manager'
 'ppa:nilarimogard/webupd8'
@@ -77,8 +75,6 @@ PPA=(
 )
 WEBUPD8=(
 'atom' #https://atom.io/ | IDE.
-'brackets' #http://brackets.io/ | IDE.
-'sublime-text-installer' #https://www.sublimetext.com/ | IDE.
 'veracrypt' #https://www.veracrypt.fr/en/Home.html | File Encryption.
 'youtube-dlg' #https://github.com/MrS0m30n3/youtube-dl-gui | Youtube Downloader.
 'y-ppa-manager' #https://launchpad.net/~webupd8team/+archive/ubuntu/y-ppa-manager | Fixes problems with PPAs.
