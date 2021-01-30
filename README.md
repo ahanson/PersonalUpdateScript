@@ -65,7 +65,7 @@
 * **[Inkscape](https://inkscape.org/en/):** Complicated / powerful vector graphics software.
 * **[Gimp](http://www.gimp.org/):** Opensource alternative to Photoshop.
 * **[RecordMyDesktop](http://recordmydesktop.sourceforge.net/about.php)**: 
-* **[Trimage](http://trimage.org/)**:
+* **[Trimage](http://trimage.org/)**: Image compressor.
 * **[Viewnor](http://siyanpanayotov.com/project/viewnior/):** Image viewer with basic editing features.
 
 ### Multimedia: Conversion:
