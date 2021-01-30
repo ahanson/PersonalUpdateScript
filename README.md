@@ -9,7 +9,6 @@
 
 ### Accessories: General
 
-* **[Gnome-Schedule](http://gnome-schedule.sourceforge.net/)**: graphical front-end for **[Cron](https://en.wikipedia.org/wiki/Cron)** and **[At](http://www.brunolinux.com/02-The_Terminal/The_at_Command.html)**.
 * **[Gdebi](https://launchpad.net/gdebi)**: Debian package installer.
 * **[Gtypist](https://www.gnu.org/software/gtypist/)**: Typing Tutor.
 * **[Hardinfo](http://hardinfo.berlios.de/HomePage)**: Benchmarking and system information tool.
@@ -19,6 +18,7 @@
 * **[Neofetch](https://github.com/dylanaraps/neofetch)**: Output system information in the terminal.
 * **[PDF Mod](https://live.gnome.org/PdfMod)** / **[PDF Shuffler](http://sourceforge.net/projects/pdfshuffler/):** App for modifying PDF files in various ways. Good for prep/cleanup before you send off tax docs, for example.
 * **[PyRenamer](http://www.infinicode.org/code/pyrenamer/)**: GUI file mass renaming tool. Makes complicated regex easy to write.
+* **[Zeit](https://www.linuxuprising.com/2020/10/schedule-commands-and-scripts-in-linux.html)**: Cron and At scheduler.
 
 ### Accessories: File Search:
 
