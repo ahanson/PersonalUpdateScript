@@ -122,7 +122,6 @@
 
 ### Networking: Messaging:
 
-* **[Skype](http://www.skype.com/en/)**: World-famous VOIP program. Audio is goofy under Linux.
 * **[Tor Chat](https://en.wikipedia.org/wiki/TorChat)**: Anonymous chat tool.
 
 ### Networking: Servers
