@@ -26,7 +26,7 @@ SOFTWARE=(
 'inkscape' #https://inkscape.org/en/ | SVG editor
 'ipscan' #http://angryip.org/download/#linux | Simple network scanner
 'jekyll' #https://jekyllrb.com/ | Static Site Generator
-'keepassx' #https://www.keepassx.org/ | Password Manager
+'keepassxc' #https://keepassxc.org/ | Password Manager
 'libvirt-bin' #https://virt-manager.org/ | Virtualization Manager
 'links' #http://links.twibright.com/ | CLI web browser
 'lyx' #https://www.lyx.org/ | Latex Word Processor
