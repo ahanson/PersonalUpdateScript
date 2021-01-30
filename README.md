@@ -64,7 +64,7 @@
 * **[Dia](http://dia-installer.de/):** Vector graphics program,
 * **[Inkscape](https://inkscape.org/en/):** Complicated / powerful vector graphics software.
 * **[Gimp](http://www.gimp.org/):** Opensource alternative to Photoshop.
-* RecordMyDesktop: 
+* **[RecordMyDesktop](http://recordmydesktop.sourceforge.net/about.php)**: 
 * **[Trimage](http://trimage.org/)**:
 * **[Viewnor](http://siyanpanayotov.com/project/viewnior/):** Image viewer with basic editing features.
 
