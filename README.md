@@ -7,6 +7,9 @@
 
 ## How to download and run the script:
 
+    wget https://raw.githubusercontent.com/ahanson/PersonalUpdateScript/master/InstallScript.sh
+    chmod +x InstallScript.sh
+    sudo ./InstallScript.sh
 
 ## List of Software:
 
