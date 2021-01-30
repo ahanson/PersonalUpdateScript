@@ -50,13 +50,6 @@
 
 * **[Atom](https://atom.io/)**:
 
-### Development: Markdown:
-
-* **[Abricontine](http://abricotine.brrd.fr/)**:
-* **[Haroopad](http://pad.haroopress.com/)**:
-* **[Remarkable](http://remarkableapp.net/)**: 
-* **[UberWriter](http://uberwriter.wolfvollprecht.de/)**
-
 ### Development: Version Control:
 
 * **[Mercurial](http://mercurial.selenic.com/)**:
