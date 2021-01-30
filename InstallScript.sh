@@ -69,7 +69,6 @@ function install_webupd8_programs {
 # Maybe webupd8 isn't maintained anymore? Need some alternate sources.
 PPA=(
 'pa:webupd8team/atom'
-'ppa:webupd8team/y-ppa-manager'
 'ppa:nilarimogard/webupd8'
 'ppa:unit193/encryption'
 )
@@ -77,7 +76,6 @@ WEBUPD8=(
 'atom' #https://atom.io/ | IDE.
 'veracrypt' #https://www.veracrypt.fr/en/Home.html | File Encryption.
 'youtube-dlg' #https://github.com/MrS0m30n3/youtube-dl-gui | Youtube Downloader.
-'y-ppa-manager' #https://launchpad.net/~webupd8team/+archive/ubuntu/y-ppa-manager | Fixes problems with PPAs.
 )
 # Extra PPAs from webupd8 added here:
 for item in ${PPA[*]};
