@@ -4,7 +4,6 @@ SOFTWARE=(
 'abook' # http://abook.sourceforge.net/ | CLI Address Book
 'artha' #http://artha.sourceforge.net/wiki/index.php/Home | Thesaurus
 'audacity' #https://www.audacityteam.org/ | WAV Editor
-'beets' #http://beets.io/ | Music Management System
 'bmon' #https://github.com/tgraf/bmon | CLI bandwith monitor
 'brasero' #https://wiki.gnome.org/Apps/Brasero | CD/DVD Burner
 'catfish' #http://www.twotoasts.de/index.php/catfish/ | File Search Program
