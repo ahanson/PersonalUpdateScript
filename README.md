@@ -56,7 +56,7 @@
 
 ### Games:
 
-* [Steam](http://store.steampowered.com/): Commercial game client.
+* **[Steam](http://store.steampowered.com/)**: Commercial game client.
 
 ### Graphics:
 
