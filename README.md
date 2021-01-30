@@ -52,7 +52,6 @@
 
 ### Development: Version Control:
 
-* **[Mercurial](http://mercurial.selenic.com/)**:
 * **[Git](https://git-scm.com/)**:
 
 ### Games:
