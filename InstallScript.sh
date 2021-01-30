@@ -48,7 +48,6 @@ SOFTWARE=(
 'pyrenamer' #https://launchpad.net/pyrenamer | Mass File Renamer
 'scribus' #https://www.scribus.net/ | desktop publishing
 'shellcheck' #https://www.shellcheck.net/ | finds errors in bash scripts
-'skypeforlinux' #https://www.skype.com/en/get-skype/skype-for-linux/ | VOIP
 'soundconverter' #http://soundconverter.org/ | Converts sound files between different formats
 'sqlitebrowser' #http://sqlitebrowser.org/ | Database Editor
 'steam' #http://store.steampowered.com/ | Games Platform
