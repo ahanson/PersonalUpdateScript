@@ -51,6 +51,7 @@
 * **[Meld](http://meldmerge.org/)**: Helps resolve differences between files..
 * **[Jekyll](http://jekyllrb.com/)**: Static Site Generator.
 * **[Sinatra](http://www.sinatrarb.com/)**: Web Development Framework.
+* **[Ruby](https://www.ruby-lang.org/en/)**: programming language. 
 
 ### Development: IDE:
 
@@ -67,8 +68,7 @@
 ### Graphics:
 
 * **[Cheese](https://wiki.gnome.org/Apps/Cheese):** Simple webcam software.
-* **[Dia](http://dia-installer.de/):** Vector graphics program,
-* **[Inkscape](https://inkscape.org/en/):** Complicated / powerful vector graphics software.
+* **[Dia](http://dia-installer.de/)** | **[Inkscape](https://inkscape.org/en/)**: Vector graphics program.
 * **[Gimp](http://www.gimp.org/):** Opensource alternative to Photoshop.
 * **[RecordMyDesktop](http://recordmydesktop.sourceforge.net/about.php)**: 
 * **[Trimage](http://trimage.org/)**: Image compressor.
@@ -143,5 +143,3 @@
 * **[Gnome Clocks](https://help.gnome.org/misc/release-notes/3.6/lookingforward-clocks.html.en)**: timers.
 
 ### Random: 
-
-* **[Ruby](https://www.ruby-lang.org/en/)**: programming language. 
