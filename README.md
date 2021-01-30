@@ -39,18 +39,11 @@
 * **[Virtualbox](https://www.virtualbox.org/)**: Create virtual machines and test out various software configurations without a risk of breaking anything.
 * **[Wine](http://www.winehq.org/)**: Windows emulator.
 
-### Development:
+### Development: General:
 
-* **[Pastebin](http://pastebin.com/u/ahanson)**: Text-sharing website, good for saving files and snippets publicly.
 * **[Meld](http://meldmerge.org/)**: Helps resolve differences between files..
 * **[Jekyll](http://jekyllrb.com/)**: Static Site Generator.
 * **[Sinatra](http://www.sinatrarb.com/)**: Web Development Framework.
-* Web links to my various servers and documentation places.
-
-### Development: Android:
-
-* **[Android SDK](https://developer.android.com/sdk/index.html)**: required for rooting many phones.
-* **[Heimdall](http://glassechidna.com.au/heimdall/)**: Rooting tool.
 
 ### Development: IDE:
 
