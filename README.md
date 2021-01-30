@@ -85,7 +85,7 @@
 ### Multimedia: Downloading:
 
 * **[Youtube-dl](https://rg3.github.io/youtube-dl/):** Easier than watching streaming stuff over my slow DSL line, or when fighting Linux' crappy flash playback issues.
-* **[MPS-youtube](http://lifehacker.com/mps-youtube-is-a-terminal-based-youtube-player-and-down-1651752380)**: 
+* **[MPS-youtube](https://github.com/mps-youtube/mps-youtube)**: Youtube CLI Client.
 * **[Gpodder](http://gpodder.org/)**: podcast downloader.
 
 ### Multimedia: Players:
