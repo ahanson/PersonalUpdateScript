@@ -48,7 +48,6 @@
 
 ### Development: IDE:
 
-* **[Arcadia](http://www.arcadia-ide.org/)**:
 * **[Aptana](http://www.aptana.com/)**: Web Development IDE.
 * **[Koala](http://koala-app.com/)**: Less / Sass compiler.
 * **[Komodo IDE](http://www.activestate.com/komodo-ide)**: fancy paid web development IDE. Has lots of features and supports a lot of formats, but is slow as hell on my netbook (based on Mozilla Firefox's various libraries).
