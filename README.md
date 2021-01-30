@@ -1,7 +1,8 @@
 # Personal Update Script.
 
 * Here's my personal install script. 
-* It was meant for [Linux Mint 19.1 Cinnamon](https://linuxmint.com/). I need to update it so that it works with Linux Mint 20.
+* It was meant for [Linux Mint 19.1 Cinnamon](https://linuxmint.com/). 
+  * I need to update it so that it works with Linux Mint 20.
 * It adds all my usual programs and the repositories that they require.
 
 ## List of Software:
