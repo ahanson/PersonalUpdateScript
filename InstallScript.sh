@@ -43,7 +43,6 @@ SOFTWARE=(
 'pdfmod' #https://wiki.gnome.org/Apps/PdfMod | PDF Editor
 'pdfshuffler' #https://github.com/jeromerobert/pdfshuffler | PDF Editor
 'puddletag' #http://docs.puddletag.net/ | Music Metadata Editor
-'pyrenamer' #https://launchpad.net/pyrenamer | Mass File Renamer
 'scribus' #https://www.scribus.net/ | desktop publishing
 'shellcheck' #https://www.shellcheck.net/ | finds errors in bash scripts
 'soundconverter' #http://soundconverter.org/ | Converts sound files between different formats
