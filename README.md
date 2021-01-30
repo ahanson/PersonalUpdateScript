@@ -151,7 +151,6 @@
 ### Office: Office Suites:
 
 * **[Libre Office](https://www.libreoffice.org/)**: FOSS office suite.
-* **[WPS Office](http://wps.com/linux/)**: Chinese office suite that works with Word formats.
 
 ### Office: Time Tracking: 
 
