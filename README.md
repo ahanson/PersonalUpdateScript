@@ -124,7 +124,7 @@
 
 ### Networking: Clients:
 
-* **[Filezilla](https://filezilla-project.org)**: FTP/SFTP client. Can decide what you are going to put before you put the whole thing.
+* **[Filezilla](https://filezilla-project.org)**: FTP/SFTP client. 
 
 ### Office:
 
