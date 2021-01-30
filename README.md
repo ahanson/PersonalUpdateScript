@@ -33,10 +33,6 @@
 
 * **[Unetbootin](http://unetbootin.sourceforge.net/)**: Installs ISO files to USB sticks. 
 
-### Accessories: System Maintainance:
-
-* **[Y PPA Manager](https://launchpad.net/~webupd8team/+archive/ubuntu/y-ppa-manager)**: Add and remove extra repositories easily. Not so useful under Mint, as that distro has its' own source administration program.
-
 ### Virtualization / Emulation:
 
 * **[Dosbox](http://www.dosbox.com/)**: Play DOS games under Linux or Windows.
