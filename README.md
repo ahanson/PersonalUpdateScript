@@ -49,7 +49,6 @@
 ### Development: IDE:
 
 * **[Komodo IDE](http://www.activestate.com/komodo-ide)**: fancy paid web development IDE. Has lots of features and supports a lot of formats, but is slow as hell on my netbook (based on Mozilla Firefox's various libraries).
-* **[Redcar](http://redcareditor.com/)**: Ruby IDE.
 * **[Sublime Text](https://www.sublimetext.com/)**:
 
 ### Development: Markdown:
