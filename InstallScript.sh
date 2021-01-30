@@ -13,7 +13,6 @@ SOFTWARE=(
 'fdupes' #https://github.com/adrianlopezroche/fdupes | CLI duplicate file detector
 'filezilla' #https://filezilla-project.org/ | FTP/SFTP Client
 'fslint' #https://www.pixelbeat.org/fslint/ | Duplicate file detector
-'geany' #https://www.geany.org/ | Text Editor
 'giada' #https://www.giadamusic.com/ | Sampler/Sequencer
 'git' #https://git-scm.com/ | VCS
 'gnome-clocks' #https://help.gnome.org/users/gnome-clocks/stable/ | Timer
