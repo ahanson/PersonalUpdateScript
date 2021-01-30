@@ -32,7 +32,6 @@ SOFTWARE=(
 'lyx' #https://www.lyx.org/ | Latex Word Processor
 'magic-wormhole' #https://magic-wormhole.readthedocs.io/en/latest/ | Share files over a network, securely
 'meld' #http://meldmerge.org/ | Diff editor
-'mercurial' #https://www.youtube.com/watch?v=A5ERnZAejPQ&t=27s | VCS
 'milkytracker' #https://milkytracker.titandemo.org/ | Sequencer
 'mixxx' #https://www.mixxx.org/ | DJ Mix Software
 'moc' #http://moc.daper.net/ | CLI Mp3 Player
