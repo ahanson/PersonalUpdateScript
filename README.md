@@ -129,11 +129,6 @@
 * **[Midori](http://midori-browser.org/):**
 * **[Vivaldi](https://vivaldi.com/):**
 
-### Networking: Cloud Services:
-
-* **[Dropbox](https://www.dropbox.com/)**: 2GB sure goes a long way, especially when it is accessable from so many places.
-* **[InSync](https://www.insynchq.com/):** Linux client for Google Drive.
-
 ### Networking: Messaging:
 
 * **[Skype](http://www.skype.com/en/)**: World-famous VOIP program. Audio is goofy under Linux.
