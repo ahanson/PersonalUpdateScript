@@ -70,7 +70,6 @@
 
 ### Multimedia: Conversion:
 
-* **[Oggconvert](http://oggconvert.tristanb.net/):** Converts proprietary media files into OGG.
 * **[SoundConverter](http://soundconverter.org/)**:
 
 ### Multimedia: Tag Management:
