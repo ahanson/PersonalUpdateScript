@@ -91,9 +91,7 @@
 ### Multimedia: Players:
 
 * **[Mocp](http://moc.daper.net/):** Command-line music player. good on low-memory computers (such as netbooks).
-* **[Google Play Music Client](http://www.omgubuntu.co.uk/2012/11/how-to-use-google-play-music-in-ubuntu):** Need to find a newer app that does this.
 * **[VLC](https://www.videolan.org/vlc/index.html):** Plays everything.
-* **[Minitube](http://flavio.tordini.org/minitube):**
 
 ### Multimedia: Production:
 
