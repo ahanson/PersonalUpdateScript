@@ -122,12 +122,6 @@
 
 * **[Tor Chat](https://en.wikipedia.org/wiki/TorChat)**: Anonymous chat tool.
 
-### Networking: Servers
-
-* **[LAMP](https://en.wikipedia.org/wiki/LAMP_%28software_bundle%29)**: the standard.
-* **[Droopy](http://stackp.online.fr/?p=28)**: local file receiving via [python](https://www.python.org/).
-* **[HFS](http://www.rejetto.com/hfs/)**: Local webserver for downloading. Requires Wine.
-
 ### Networking: Clients:
 
 * **[Filezilla](https://filezilla-project.org)**: FTP/SFTP client. Can decide what you are going to put before you put the whole thing.
