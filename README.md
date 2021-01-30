@@ -24,7 +24,7 @@
 * **[Neofetch](https://github.com/dylanaraps/neofetch)**: Output system information in the terminal.
 * **[PDF Mod](https://live.gnome.org/PdfMod)** / **[PDF Shuffler](http://sourceforge.net/projects/pdfshuffler/):** App for modifying PDF files in various ways. Good for prep/cleanup before you send off tax docs, for example.
 * **[Regexxer](http://regexxer.sourceforge.net/)**: Regex tool.
-* **[Zeit](https://www.linuxuprising.com/2020/10/schedule-commands-and-scripts-in-linux.html)**: Cron and At scheduler.
+* **[Zeit](https://www.linuxuprising.com/2020/10/schedule-commands-and-scripts-in-linux.html)**: Cron and At scheduler. (requires PPA.)
 
 ### Accessories: File Search:
 
@@ -38,12 +38,12 @@
 
 ### Accessories: ISO:
 
-* **[Unetbootin](http://unetbootin.sourceforge.net/)**: Installs ISO files to USB sticks. 
+* **[Unetbootin](http://unetbootin.sourceforge.net/)**: Installs ISO files to USB sticks. [Requires PPA](https://launchpad.net/~gezakovacs/+archive/ubuntu/ppa).
 
 ### Virtualization / Emulation:
 
 * **[Dosbox](http://www.dosbox.com/)**: Play DOS games under Linux or Windows.
-* **[Virtualbox](https://www.virtualbox.org/)**: Create virtual machines and test out various software configurations without a risk of breaking anything.
+* **[Virtualbox](https://www.virtualbox.org/)**: Create virtual machines and test out various software configurations without a risk of breaking anything. Requires custom sources.
 * **[Wine](http://www.winehq.org/)**: Windows emulator.
 
 ### Development: General:
@@ -101,21 +101,18 @@
 ### Multimedia: Production:
 
 * **[Audacity](http://sourceforge.net/projects/audacity/)**: WAV editor.
-* **[giada](http://www.giadamusic.com/)**: Music sequencer.
-* **[LMMS](https://lmms.io/)**:
-* **[Milkytracker](http://milkytracker.org/):** a possible replacement for proprietary music sequencing tools.
+* **[giada](http://www.giadamusic.com/)** |  **[LMMS](https://lmms.io/)** | **[Milkytracker](http://milkytracker.org/)** : Sequencers.
 * **[Mixxx](http://mixxx.org/)**: DJ mixing suite.
 
 ### Networking: Analysis:
 
 * **[Angry IP Scanner](http://angryip.org/)**: Finds all visible IPs in a range.
 * **[bmon](https://github.com/tgraf/bmon)**: monitors network activity on interfaces.
-* **[Wireshark](https://www.wireshark.org/)**:
-* **[Zenmap](http://nmap.org/zenmap/)**:
+* **[Wireshark](https://www.wireshark.org/)** | **[Zenmap](http://nmap.org/zenmap/)** : Network analysis.
 
 ### Networking: Browsers:
 
-* **[Google Chrome](https://www.google.com/chrome/):**
+* **[Google Chrome](https://www.google.com/chrome/):** requires custom sources.
 * **[Chromium](https://www.chromium.org/Home):**
 * **[Firefox](https://www.mozilla.org/en-US/firefox/desktop/):**
 * **[Opera](http://www.opera.com/):**
@@ -126,6 +123,7 @@
 ### Networking: Clients:
 
 * **[Filezilla](https://filezilla-project.org)**: FTP/SFTP client. 
+* **[Deluge](https://deluge-torrent.org/)**: Torrent Client.
 
 ### Office:
 
@@ -134,6 +132,7 @@
 * **[Epub](https://github.com/rupa/epub)**: Command-line epub reader.
 * **[Gsimplecal](https://github.com/dmedvinsky/gsimplecal)**: Calculator.
 * **[Glabels](http://www.glabels.org/)**: Works with Avery and other standard printer label sets you can buy from an office supply store.
+* **[Wordgrinder]()**: Word Processor.
 
 ### Office: Office Suites:
 
