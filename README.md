@@ -82,7 +82,6 @@
 
 ### Games:
 
-* Other **[Humble Indie Bundle](https://www.humblebundle.com/)** games.
 * [Steam](http://store.steampowered.com/): Commercial game client.
 
 ### Graphics:
