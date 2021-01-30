@@ -33,7 +33,6 @@
 
 ### Accessories: ISO:
 
-* **[ISO Master](http://www.littlesvr.ca/isomaster/)**: ISO editing tool.
 * **[Unetbootin](http://unetbootin.sourceforge.net/)**: Installs ISO files to USB sticks. 
 
 ### Accessories: System Maintainance:
