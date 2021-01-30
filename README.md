@@ -9,7 +9,6 @@
 
 ### Accessories: General
 
-* **[Geany](http://www.geany.org/)**: Text editor with a ton of features.
 * **[Gnome-Schedule](http://gnome-schedule.sourceforge.net/)**: graphical front-end for **[Cron](https://en.wikipedia.org/wiki/Cron)** and **[At](http://www.brunolinux.com/02-The_Terminal/The_at_Command.html)**.
 * **[Gdebi](https://launchpad.net/gdebi)**: Debian package installer.
 * **[Gtypist](https://www.gnu.org/software/gtypist/)**: Typing Tutor.
