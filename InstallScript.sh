@@ -3,6 +3,7 @@ function install_basic_programs {
 SOFTWARE=(
 'abook' # http://abook.sourceforge.net/ | CLI Address Book
 'artha' #http://artha.sourceforge.net/wiki/index.php/Home | Thesaurus
+ | IDE'atom' #https://atom.io/
 'audacity' #https://www.audacityteam.org/ | WAV Editor
 'bmon' #https://github.com/tgraf/bmon | CLI bandwith monitor
 'brasero' #https://wiki.gnome.org/Apps/Brasero | CD/DVD Burner
@@ -66,12 +67,10 @@ done
 function install_webupd8_programs {
 # Maybe webupd8 isn't maintained anymore? Need some alternate sources.
 PPA=(
-'ppa:webupd8team/atom'
 'ppa:nilarimogard/webupd8'
 'ppa:unit193/encryption'
 )
 WEBUPD8=(
-'atom' #https://atom.io/ | IDE.
 'veracrypt' #https://www.veracrypt.fr/en/Home.html | File Encryption.
 'youtube-dlg' #https://github.com/MrS0m30n3/youtube-dl-gui | Youtube Downloader.
 )
