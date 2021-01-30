@@ -118,10 +118,6 @@
 * **[Midori](http://midori-browser.org/):**
 * **[Vivaldi](https://vivaldi.com/):**
 
-### Networking: Messaging:
-
-* **[Tor Chat](https://en.wikipedia.org/wiki/TorChat)**: Anonymous chat tool.
-
 ### Networking: Clients:
 
 * **[Filezilla](https://filezilla-project.org)**: FTP/SFTP client. 
