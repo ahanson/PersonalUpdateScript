@@ -125,8 +125,6 @@
 ### Networking: Clients:
 
 * **[Filezilla](https://filezilla-project.org)**: FTP/SFTP client. Can decide what you are going to put before you put the whole thing.
-* **[Transmission](http://transmissionbt.com/):** Bittorrent client.
-* **[Dukto](http://www.msec.it/blog/?page_id=11)**: Share files on the local network.
 
 ### Office:
 
