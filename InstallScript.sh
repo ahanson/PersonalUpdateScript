@@ -25,7 +25,6 @@ SOFTWARE=(
 'htop' #https://hisham.hm/htop/ | System stats and process information
 'i7z' #http://www.webupd8.org/2014/04/i7z-monitor-intel-i7-i5-and-i3.html |
 'inxi' #https://smxi.org/docs/inxi.htm | Straightforward system information
-'isomaster' #http://littlesvr.ca/isomaster/ | Creates and edits ISO files
 'inkscape' #https://inkscape.org/en/ | SVG editor
 'ipscan' #http://angryip.org/download/#linux | Simple network scanner
 'jekyll' #https://jekyllrb.com/ | Static Site Generator
