@@ -160,6 +160,3 @@
 ### Random: 
 
 * **[Ruby](https://www.ruby-lang.org/en/)**: programming language. 
-
-## Other things to install: 
-* Litecoin
