@@ -108,15 +108,6 @@ sudo apt-get update
 sudo apt-get -y install google-chrome-stable
 	}
 
-function install_insync {
-# Install Insync:
-sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys ACCAF35C
-sudo touch /etc/apt/sources.list.d/insync.list
-sudo echo "deb http://apt.insynchq.com/mint tessa non-free contrib" >> /etc/apt/sources.list.d/insync.list
-sudo apt-get update
-sudo apt-get -y install insync
-}
-
 function install_multisystem {
 # Install Multisystem:
 sudo apt-add-repository 'deb http://liveusb.info/multisystem/depot all main'
@@ -200,7 +191,6 @@ dpkg --get-selections >before.txt
 install_basic_programs
 install_webupd8_programs
 install_chromebrowser
-install_insync
 install_latest_virtualbox
 install_neofetch
 install_sendanywhere
