@@ -66,7 +66,7 @@ done
 function install_webupd8_programs {
 # Maybe webupd8 isn't maintained anymore? Need some alternate sources.
 PPA=(
-'pa:webupd8team/atom'
+'ppa:webupd8team/atom'
 'ppa:nilarimogard/webupd8'
 'ppa:unit193/encryption'
 )
