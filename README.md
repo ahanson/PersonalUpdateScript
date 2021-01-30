@@ -17,6 +17,7 @@
 * **[KeePassXC](https://keepassxc.org/)**: Encrypted password database that can be shared between several users (via dropbox or other cloud services). password generator is easy to use, and becoming essential as major websites are being cracked right and left.
 * **[Neofetch](https://github.com/dylanaraps/neofetch)**: Output system information in the terminal.
 * **[PDF Mod](https://live.gnome.org/PdfMod)** / **[PDF Shuffler](http://sourceforge.net/projects/pdfshuffler/):** App for modifying PDF files in various ways. Good for prep/cleanup before you send off tax docs, for example.
+* **[Regexxer](http://regexxer.sourceforge.net/)**: Regex tool.
 * **[Zeit](https://www.linuxuprising.com/2020/10/schedule-commands-and-scripts-in-linux.html)**: Cron and At scheduler.
 
 ### Accessories: File Search:
