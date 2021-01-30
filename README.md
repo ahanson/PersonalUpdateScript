@@ -17,7 +17,6 @@
 * **[KeePassXC](https://keepassxc.org/)**: Encrypted password database that can be shared between several users (via dropbox or other cloud services). password generator is easy to use, and becoming essential as major websites are being cracked right and left.
 * **[Neofetch](https://github.com/dylanaraps/neofetch)**: Output system information in the terminal.
 * **[PDF Mod](https://live.gnome.org/PdfMod)** / **[PDF Shuffler](http://sourceforge.net/projects/pdfshuffler/):** App for modifying PDF files in various ways. Good for prep/cleanup before you send off tax docs, for example.
-* **[PyRenamer](http://www.infinicode.org/code/pyrenamer/)**: GUI file mass renaming tool. Makes complicated regex easy to write.
 * **[Zeit](https://www.linuxuprising.com/2020/10/schedule-commands-and-scripts-in-linux.html)**: Cron and At scheduler.
 
 ### Accessories: File Search:
@@ -36,7 +35,6 @@
 
 ### Accessories: System Maintainance:
 
-* **[BleachBit](http://bleachbit.sourceforge.net/)**: Deletes temp files.
 * **[Y PPA Manager](https://launchpad.net/~webupd8team/+archive/ubuntu/y-ppa-manager)**: Add and remove extra repositories easily. Not so useful under Mint, as that distro has its' own source administration program.
 
 ### Virtualization / Emulation:
