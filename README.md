@@ -75,7 +75,7 @@
 
 ### Multimedia: Tag Management:
 
-* **[PuddleTag](http://docs.puddletag.net/)** | **[Easytag](https://wiki.gnome.org/Apps/EasyTAG):** for fixing messed-up metadata on audio files.
+* **[PuddleTag](http://docs.puddletag.net/)** | **[Ex Falso](https://quodlibet.readthedocs.io/en/quodlibet-3.4/index.html):** for fixing messed-up metadata on audio files.
 
 ### Multimedia: Optical Drives:
 
