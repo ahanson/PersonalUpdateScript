@@ -16,6 +16,7 @@
 ### Accessories: General
 
 * **[Gdebi](https://launchpad.net/gdebi)**: Debian package installer.
+* **[Grsync](https://www.opbyte.it/grsync/)**:
 * **[Gtypist](https://www.gnu.org/software/gtypist/)**: Typing Tutor.
 * **[Hardinfo](http://hardinfo.berlios.de/HomePage)**: Benchmarking and system information tool.
 * **[HTOP](http://hisham.hm/htop/)**: monitors system activity and processes.
@@ -44,6 +45,7 @@
 
 * **[Dosbox](http://www.dosbox.com/)**: Play DOS games under Linux or Windows.
 * **[Virtualbox](https://www.virtualbox.org/)**: Create virtual machines and test out various software configurations without a risk of breaking anything. Requires custom sources.
+* **[Vagrant](https://www.vagrantup.com/)**:
 * **[Wine](http://www.winehq.org/)**: Windows emulator.
 
 ### Development: General:
